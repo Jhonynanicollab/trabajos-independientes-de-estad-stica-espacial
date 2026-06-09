@@ -1,0 +1,12 @@
+name: indice_de_moran
+title: indice_de_moran
+username: jhoncristhian
+account: jhoncristhian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17487955
+bundleId: 12105198
+url: https://jhoncristhian.shinyapps.io/indice_de_moran/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
