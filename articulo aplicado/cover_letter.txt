@@ -1,0 +1,34 @@
+Dear Editor-in-Chief,
+
+I am pleased to submit my original research article entitled "Spatio-Temporal
+Cluster Detection of Forest Fires in Southern Peru (2017-2025) Using the
+SaTScan Method and Spatial Autocorrelation" for consideration for publication
+in Natural Hazards.
+
+This study integrates 74,861 satellite-derived fire hotspots (NASA FIRMS
+VIIRS/MODIS) and 2,727,647 deforestation alerts (GeoBosques-MINAM) across
+237 districts of southern Peru (Madre de Dios, Puno, and Cusco) to detect
+statistically significant spatio-temporal fire clusters using SaTScan's
+discrete Poisson model, complemented by global and local spatial
+autocorrelation analysis (Moran's Index and LISA). We identify nine
+significant clusters, reveal extreme seasonal concentration of fire
+occurrence linked to drought and El Nino episodes, and demonstrate a strong
+spatial association between prior deforestation and fire risk in
+neighboring districts.
+
+We believe this work aligns closely with the scope of Natural Hazards,
+particularly its focus on climatological hazards, risk assessment, and
+early-warning systems, and provides empirical evidence directly relevant to
+fire-prevention policy in the Peruvian Amazon and Andes.
+
+This manuscript is original, has not been published previously, and is not
+under consideration elsewhere. The author declares no competing interests
+and no external funding was received for this research.
+
+Thank you for your consideration. I look forward to your response.
+
+Sincerely,
+
+Jhon Cristhian Gonzales Quispe
+Universidad Nacional del Altiplano, Puno, Peru
+j.gonzales@est.unap.edu.pe

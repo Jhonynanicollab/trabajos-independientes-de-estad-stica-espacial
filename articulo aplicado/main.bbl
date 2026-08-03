@@ -1,0 +1,377 @@
+\begin{thebibliography}{35}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Aboushady et~al.(2025)Aboushady, Mansour, El~Maghraby, Teixeira,
+  Cunha, Dantas, Nawwar, Hegazy and Chen-Xu}]{Aboushady2025}
+\bibinfo{author}{Aboushady, A.T.}, \bibinfo{author}{Mansour, F.},
+  \bibinfo{author}{El~Maghraby, M.}, \bibinfo{author}{Teixeira, B.},
+  \bibinfo{author}{Cunha, S.}, \bibinfo{author}{Dantas, M.M.},
+  \bibinfo{author}{Nawwar, A.}, \bibinfo{author}{Hegazy, A.},
+  \bibinfo{author}{Chen-Xu, J.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{The use of {SatScan} software to map spatiotemporal
+  trends and detect disease clusters: a systematic review}.
+\newblock \bibinfo{journal}{Communications Medicine} \bibinfo{volume}{5},
+  \bibinfo{pages}{82}.
+\newblock \DOIprefix\doi{10.1038/s43856-024-00699-1}.
+%Type = Article
+\bibitem[{Alarcon-Aguirre et~al.(2022)Alarcon-Aguirre, Miranda~Fidhel,
+  Ramos~Enciso, Canahuire-Robles, Rodriguez-Achata and
+  Garate-Quispe}]{AlarconAguirre2022}
+\bibinfo{author}{Alarcon-Aguirre, G.}, \bibinfo{author}{Miranda~Fidhel, R.F.},
+  \bibinfo{author}{Ramos~Enciso, D.}, \bibinfo{author}{Canahuire-Robles, R.},
+  \bibinfo{author}{Rodriguez-Achata, L.}, \bibinfo{author}{Garate-Quispe, J.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Burn severity assessment using {Sentinel-1 SAR} in
+  the southeast {Peruvian Amazon}, a case study of {Madre de Dios}}.
+\newblock \bibinfo{journal}{Fire} \bibinfo{volume}{5}, \bibinfo{pages}{94}.
+\newblock \DOIprefix\doi{10.3390/fire5040094}.
+%Type = Article
+\bibitem[{Anselin(1995)}]{Anselin1995}
+\bibinfo{author}{Anselin, L.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Local indicators of spatial association---{LISA}}.
+\newblock \bibinfo{journal}{Geographical Analysis} \bibinfo{volume}{27},
+  \bibinfo{pages}{93--115}.
+\newblock \DOIprefix\doi{10.1111/j.1538-4632.1995.tb00338.x}.
+%Type = Article
+\bibitem[{Arag{\~a}o et~al.(2018)Arag{\~a}o, Anderson, Fonseca, Rosan,
+  Vedovato, Wagner, Silva, Silva~Junior, Arai, Aguiar, Barlow, Berenguer,
+  Deeter, Domingues, Gatti, Gloor, Malhi, Marengo, Miller, Phillips and
+  Saatchi}]{Aragao2018}
+\bibinfo{author}{Arag{\~a}o, L.E.O.C.}, \bibinfo{author}{Anderson, L.O.},
+  \bibinfo{author}{Fonseca, M.G.}, \bibinfo{author}{Rosan, C.M.},
+  \bibinfo{author}{Vedovato, L.B.}, \bibinfo{author}{Wagner, F.H.},
+  \bibinfo{author}{Silva, C.A.}, \bibinfo{author}{Silva~Junior, C.H.L.},
+  \bibinfo{author}{Arai, E.}, \bibinfo{author}{Aguiar, A.P.},
+  \bibinfo{author}{Barlow, J.}, \bibinfo{author}{Berenguer, E.},
+  \bibinfo{author}{Deeter, M.N.}, \bibinfo{author}{Domingues, L.G.},
+  \bibinfo{author}{Gatti, L.}, \bibinfo{author}{Gloor, M.},
+  \bibinfo{author}{Malhi, Y.}, \bibinfo{author}{Marengo, J.A.},
+  \bibinfo{author}{Miller, J.B.}, \bibinfo{author}{Phillips, O.L.},
+  \bibinfo{author}{Saatchi, S.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{2018 drought exacerbated {Amazonian} forest fires}.
+\newblock \bibinfo{journal}{Nature Communications} \bibinfo{volume}{9},
+  \bibinfo{pages}{534}.
+\newblock \DOIprefix\doi{10.1038/s41467-017-02771-y}.
+%Type = Article
+\bibitem[{Atalay et~al.(2025)Atalay, Sunar and Dervisoglu}]{Atalay2025}
+\bibinfo{author}{Atalay, H.}, \bibinfo{author}{Sunar, A.F.},
+  \bibinfo{author}{Dervisoglu, A.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Spatial autocorrelation analysis of {CO} and {NO2}
+  related to forest fire dynamics}.
+\newblock \bibinfo{journal}{ISPRS International Journal of Geo-Information}
+  \bibinfo{volume}{14}, \bibinfo{pages}{65}.
+\newblock \DOIprefix\doi{10.3390/ijgi14020065}.
+%Type = Article
+\bibitem[{Barboza et~al.(2024)Barboza, Turpo, Tariq, Salas~L{\'o}pez, Pizarro,
+  Zabaleta-Santisteban, Medina-Medina, Tuesta-Trauco, Oliva-Cruz and
+  V{\'a}squez}]{Barboza2024}
+\bibinfo{author}{Barboza, E.}, \bibinfo{author}{Turpo, E.Y.},
+  \bibinfo{author}{Tariq, A.}, \bibinfo{author}{Salas~L{\'o}pez, R.},
+  \bibinfo{author}{Pizarro, S.}, \bibinfo{author}{Zabaleta-Santisteban, J.A.},
+  \bibinfo{author}{Medina-Medina, A.J.}, \bibinfo{author}{Tuesta-Trauco, K.M.},
+  \bibinfo{author}{Oliva-Cruz, M.}, \bibinfo{author}{V{\'a}squez, H.V.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Spatial distribution of burned areas from 1986 to
+  2023 using cloud computing: {A} case study in {Amazonas} ({Peru})}.
+\newblock \bibinfo{journal}{Fire} \bibinfo{volume}{7}, \bibinfo{pages}{413}.
+\newblock \DOIprefix\doi{10.3390/fire7110413}.
+%Type = Book
+\bibitem[{Bivand et~al.(2013)Bivand, Pebesma and G{\'o}mez-Rubio}]{Bivand2013}
+\bibinfo{author}{Bivand, R.S.}, \bibinfo{author}{Pebesma, E.},
+  \bibinfo{author}{G{\'o}mez-Rubio, V.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Applied Spatial Data Analysis with {R}}.
+\newblock \bibinfo{edition}{2nd} ed., \bibinfo{publisher}{Springer},
+  \bibinfo{address}{New York}.
+\newblock \DOIprefix\doi{10.1007/978-1-4614-7618-4}.
+%Type = Article
+\bibitem[{Bivand and Wong(2018)}]{Bivand2018}
+\bibinfo{author}{Bivand, R.S.}, \bibinfo{author}{Wong, D.W.S.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Comparing implementations of global and local
+  indicators of spatial association}.
+\newblock \bibinfo{journal}{TEST} \bibinfo{volume}{27},
+  \bibinfo{pages}{716--748}.
+\newblock \DOIprefix\doi{10.1007/s11749-018-0599-x}.
+%Type = Article
+\bibitem[{Bola{\~n}o-D{\'i}az et~al.(2022)Bola{\~n}o-D{\'i}az, Camargo-Caicedo,
+  Soro, N'Dri and Bola{\~n}o-Ortiz}]{BolanoDiaz2022}
+\bibinfo{author}{Bola{\~n}o-D{\'i}az, S.}, \bibinfo{author}{Camargo-Caicedo,
+  Y.}, \bibinfo{author}{Soro, T.D.}, \bibinfo{author}{N'Dri, A.B.},
+  \bibinfo{author}{Bola{\~n}o-Ortiz, T.R.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Spatio-temporal characterization of fire using
+  {MODIS} data (2000--2020) in {Colombia}}.
+\newblock \bibinfo{journal}{Fire} \bibinfo{volume}{5}, \bibinfo{pages}{134}.
+\newblock \DOIprefix\doi{10.3390/fire5050134}.
+%Type = Article
+\bibitem[{Cochrane(2003)}]{Cochrane2003}
+\bibinfo{author}{Cochrane, M.A.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{Fire science for rainforests}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{421},
+  \bibinfo{pages}{913--919}.
+\newblock \DOIprefix\doi{10.1038/nature01437}.
+%Type = Article
+\bibitem[{Deng et~al.(2025)Deng, Li, Cai, Zhao and Zhao}]{Deng2025}
+\bibinfo{author}{Deng, H.}, \bibinfo{author}{Li, D.}, \bibinfo{author}{Cai,
+  S.}, \bibinfo{author}{Zhao, F.}, \bibinfo{author}{Zhao, J.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Spatio-temporal dynamics of forest fire occurrence in
+  {Yunnan, China} from 2001 to 2021 based on {MODIS}}.
+\newblock \bibinfo{journal}{npj Natural Hazards} \bibinfo{volume}{2},
+  \bibinfo{pages}{52}.
+\newblock \DOIprefix\doi{10.1038/s44304-025-00102-6}.
+%Type = Article
+\bibitem[{Giglio et~al.(2018)Giglio, Boschetti, Roy, Humber and
+  Justice}]{Giglio2018}
+\bibinfo{author}{Giglio, L.}, \bibinfo{author}{Boschetti, L.},
+  \bibinfo{author}{Roy, D.P.}, \bibinfo{author}{Humber, M.L.},
+  \bibinfo{author}{Justice, C.O.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{The collection 6 {MODIS} burned area mapping
+  algorithm and product}.
+\newblock \bibinfo{journal}{Remote Sensing of Environment}
+  \bibinfo{volume}{217}, \bibinfo{pages}{72--85}.
+\newblock \DOIprefix\doi{10.1016/j.rse.2018.08.005}.
+%Type = Article
+\bibitem[{Giglio et~al.(2016)Giglio, Schroeder and Justice}]{Giglio2016}
+\bibinfo{author}{Giglio, L.}, \bibinfo{author}{Schroeder, W.},
+  \bibinfo{author}{Justice, C.O.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{The collection 6 {MODIS} active fire detection
+  algorithm and fire products}.
+\newblock \bibinfo{journal}{Remote Sensing of Environment}
+  \bibinfo{volume}{178}, \bibinfo{pages}{31--41}.
+\newblock \DOIprefix\doi{10.1016/j.rse.2016.02.054}.
+%Type = Article
+\bibitem[{Kulldorff(1997)}]{Kulldorff1997}
+\bibinfo{author}{Kulldorff, M.}, \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{A spatial scan statistic}.
+\newblock \bibinfo{journal}{Communications in Statistics -- Theory and Methods}
+  \bibinfo{volume}{26}, \bibinfo{pages}{1481--1496}.
+\newblock \DOIprefix\doi{10.1080/03610929708831995}.
+%Type = Article
+\bibitem[{Kulldorff(2001)}]{Kulldorff2001}
+\bibinfo{author}{Kulldorff, M.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Prospective time-periodic geographical disease
+  surveillance using a scan statistic}.
+\newblock \bibinfo{journal}{Journal of the Royal Statistical Society: Series A
+  (Statistics in Society)} \bibinfo{volume}{164}, \bibinfo{pages}{61--72}.
+\newblock \DOIprefix\doi{10.1111/1467-985X.00186}.
+%Type = Article
+\bibitem[{Kumari et~al.(2025)Kumari, Mamgain, Roy and Prince}]{Kumari2025}
+\bibinfo{author}{Kumari, S.}, \bibinfo{author}{Mamgain, S.},
+  \bibinfo{author}{Roy, A.}, \bibinfo{author}{Prince, H.C.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Characterising spatial clusters of forest fire
+  activity in the {Western Himalayan} region of {India}: implications for
+  conservation and management}.
+\newblock \bibinfo{journal}{International Journal of Wildland Fire}
+  \bibinfo{volume}{34}, \bibinfo{pages}{WF23163}.
+\newblock \DOIprefix\doi{10.1071/WF23163}.
+%Type = Article
+\bibitem[{Levin-Rector et~al.(2024)Levin-Rector, Kulldorff, Peterson, Hostovich
+  and Greene}]{LevinRector2024}
+\bibinfo{author}{Levin-Rector, A.}, \bibinfo{author}{Kulldorff, M.},
+  \bibinfo{author}{Peterson, E.R.}, \bibinfo{author}{Hostovich, S.},
+  \bibinfo{author}{Greene, S.K.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Prospective spatiotemporal cluster detection using
+  {SaTScan}: Tutorial for designing and fine-tuning a system to detect
+  reportable communicable disease outbreaks}.
+\newblock \bibinfo{journal}{JMIR Public Health and Surveillance}
+  \bibinfo{volume}{10}, \bibinfo{pages}{e50653}.
+\newblock \DOIprefix\doi{10.2196/50653}.
+%Type = Article
+\bibitem[{Lizundia-Loiola et~al.(2020)Lizundia-Loiola, Pettinari and
+  Chuvieco}]{Lizundia2020}
+\bibinfo{author}{Lizundia-Loiola, J.}, \bibinfo{author}{Pettinari, M.L.},
+  \bibinfo{author}{Chuvieco, E.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Temporal anomalies in burned area trends: Satellite
+  estimations of the {Amazonian} 2019 fire crisis}.
+\newblock \bibinfo{journal}{Remote Sensing} \bibinfo{volume}{12},
+  \bibinfo{pages}{151}.
+\newblock \DOIprefix\doi{10.3390/rs12010151}.
+%Type = Article
+\bibitem[{Ma et~al.(2022)Ma, Pu, Downs and Jin}]{Ma2022}
+\bibinfo{author}{Ma, C.}, \bibinfo{author}{Pu, R.}, \bibinfo{author}{Downs,
+  J.}, \bibinfo{author}{Jin, H.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Characterizing spatial patterns of {Amazon}
+  rainforest wildfires and driving factors by using remote sensing and {GIS}
+  geospatial technologies}.
+\newblock \bibinfo{journal}{Geosciences} \bibinfo{volume}{12},
+  \bibinfo{pages}{237}.
+\newblock \DOIprefix\doi{10.3390/geosciences12060237}.
+%Type = Article
+\bibitem[{Marengo et~al.(2011)Marengo, Tomasella, Alves, Soares and
+  Rodriguez}]{Marengo2011}
+\bibinfo{author}{Marengo, J.A.}, \bibinfo{author}{Tomasella, J.},
+  \bibinfo{author}{Alves, L.M.}, \bibinfo{author}{Soares, W.R.},
+  \bibinfo{author}{Rodriguez, D.A.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{The drought of 2010 in the context of historical
+  droughts in the {Amazon} region}.
+\newblock \bibinfo{journal}{Geophysical Research Letters} \bibinfo{volume}{38},
+  \bibinfo{pages}{L12703}.
+\newblock \DOIprefix\doi{10.1029/2011GL047436}.
+%Type = Article
+\bibitem[{Memisoglu~Baykal(2025)}]{MemisogluBaykal2025}
+\bibinfo{author}{Memisoglu~Baykal, T.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Performance assessment of {GIS}-based spatial
+  clustering methods in forest fire data}.
+\newblock \bibinfo{journal}{Natural Hazards} \bibinfo{volume}{121},
+  \bibinfo{pages}{8445--8477}.
+\newblock \DOIprefix\doi{10.1007/s11069-025-07135-0}.
+%Type = Techreport
+\bibitem[{{Ministerio del Ambiente (MINAM)}(2024)}]{MINAM2024}
+\bibinfo{author}{{Ministerio del Ambiente (MINAM)}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Monitoreo de la Cobertura Boscosa y Alertas Tempranas
+  de Deforestaci{\'o}n en la Amazon{\'i}a Peruana mediante el Sistema
+  {GeoBosques}}.
+\newblock \bibinfo{type}{Technical Report}. MINAM/SERFOR.
+  \bibinfo{address}{Lima, Per{\'u}}.
+%Type = Article
+\bibitem[{M{\'o}stiga et~al.(2026)M{\'o}stiga, Armenteras, Vayreda and
+  Retana}]{Mostiga2026}
+\bibinfo{author}{M{\'o}stiga, M.}, \bibinfo{author}{Armenteras, D.},
+  \bibinfo{author}{Vayreda, J.}, \bibinfo{author}{Retana, J.},
+  \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Spatiotemporal fire patterns and post-fire forest
+  change in {Peru} (2000--2021)}.
+\newblock \bibinfo{journal}{Land Degradation \& Development}
+  \bibinfo{volume}{37}, \bibinfo{pages}{4368--4382}.
+\newblock \DOIprefix\doi{10.1002/ldr.70378}.
+%Type = Article
+\bibitem[{Mupfiga et~al.(2022)Mupfiga, Mutanga, Dube and Kowe}]{Mupfiga2022}
+\bibinfo{author}{Mupfiga, U.N.}, \bibinfo{author}{Mutanga, O.},
+  \bibinfo{author}{Dube, T.}, \bibinfo{author}{Kowe, P.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Spatial clustering of vegetation fire intensity using
+  {MODIS} satellite data}.
+\newblock \bibinfo{journal}{Atmosphere} \bibinfo{volume}{13},
+  \bibinfo{pages}{1972}.
+\newblock \DOIprefix\doi{10.3390/atmos13121972}.
+%Type = Article
+\bibitem[{Nepstad et~al.(1999)Nepstad, Ver{\'i}ssimo, Alencar, Nobre, Lima,
+  Lefebvre, Schlesinger, Potter, Moutinho, Mendoza, Cochrane and
+  Brooks}]{Nepstad1999}
+\bibinfo{author}{Nepstad, D.C.}, \bibinfo{author}{Ver{\'i}ssimo, A.},
+  \bibinfo{author}{Alencar, A.}, \bibinfo{author}{Nobre, C.},
+  \bibinfo{author}{Lima, E.}, \bibinfo{author}{Lefebvre, P.},
+  \bibinfo{author}{Schlesinger, P.}, \bibinfo{author}{Potter, C.},
+  \bibinfo{author}{Moutinho, P.}, \bibinfo{author}{Mendoza, E.},
+  \bibinfo{author}{Cochrane, M.}, \bibinfo{author}{Brooks, V.},
+  \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{Large-scale impoverishment of {Amazonian} forests by
+  logging and fire}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{398},
+  \bibinfo{pages}{505--508}.
+\newblock \DOIprefix\doi{10.1038/19066}.
+%Type = Manual
+\bibitem[{{R Core Team}(2024)}]{RCoreTeam2024}
+\bibinfo{author}{{R Core Team}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{R: A Language and Environment for Statistical
+  Computing}.
+\newblock \bibinfo{organization}{R Foundation for Statistical Computing}.
+  \bibinfo{address}{Vienna, Austria}.
+\newblock \URLprefix \url{https://www.R-project.org/}.
+%Type = Article
+\bibitem[{Raiol et~al.(2026)Raiol, Mendes, Santos, Leite, Guimar{\~a}es, Gon{\c
+  c}alves, Velastegui-Montoya, Polidori and Matsoukis}]{Raiol2026}
+\bibinfo{author}{Raiol, L.L.}, \bibinfo{author}{Mendes, J.B.T.},
+  \bibinfo{author}{Santos, D.C.R.}, \bibinfo{author}{Leite, T.V.d.S.},
+  \bibinfo{author}{Guimar{\~a}es, Y.C.}, \bibinfo{author}{Gon{\c c}alves,
+  C.d.S.}, \bibinfo{author}{Velastegui-Montoya, A.}, \bibinfo{author}{Polidori,
+  L.}, \bibinfo{author}{Matsoukis, A.}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Drivers of fire foci in a protected area in the
+  {Brazilian Amazon}: a geospatial approach}.
+\newblock \bibinfo{journal}{Environmental Research Communications}
+  \bibinfo{volume}{8}, \bibinfo{pages}{051003}.
+\newblock \DOIprefix\doi{10.1088/2515-7620/ae6036}.
+%Type = Article
+\bibitem[{Schroeder et~al.(2014)Schroeder, Oliva, Giglio and
+  Csiszar}]{Schroeder2014}
+\bibinfo{author}{Schroeder, W.}, \bibinfo{author}{Oliva, P.},
+  \bibinfo{author}{Giglio, L.}, \bibinfo{author}{Csiszar, I.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{The new {VIIRS} 375 m active fire detection data
+  product: Algorithm description and initial assessment}.
+\newblock \bibinfo{journal}{Remote Sensing of Environment}
+  \bibinfo{volume}{143}, \bibinfo{pages}{85--96}.
+\newblock \DOIprefix\doi{10.1016/j.rse.2013.12.008}.
+%Type = Techreport
+\bibitem[{{Servicio Nacional Forestal y de Fauna Silvestre
+  (SERFOR)}(2023)}]{SERFOR2023}
+\bibinfo{author}{{Servicio Nacional Forestal y de Fauna Silvestre (SERFOR)}},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Reporte Nacional de Incendios Forestales en el
+  {Per{\'u}}: Periodo 2018--2023}.
+\newblock \bibinfo{type}{Technical Report}. Ministerio de Desarrollo Agrario y
+  Riego (MIDAGRI). \bibinfo{address}{Lima, Per{\'u}}.
+%Type = Article
+\bibitem[{Su et~al.(2023)Su, Ma and Li}]{Su2023}
+\bibinfo{author}{Su, H.}, \bibinfo{author}{Ma, X.}, \bibinfo{author}{Li, M.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{An improved spatio-temporal clustering method for
+  extracting fire footprints based on {MCD64A1} in the {Daxing'anling Area} of
+  north-eastern {China}}.
+\newblock \bibinfo{journal}{International Journal of Wildland Fire}
+  \bibinfo{volume}{32}, \bibinfo{pages}{679--693}.
+\newblock \DOIprefix\doi{10.1071/WF22198}.
+%Type = Article
+\bibitem[{Urfal{\i} and Eymen(2025)}]{Urfali2025}
+\bibinfo{author}{Urfal{\i}, T.}, \bibinfo{author}{Eymen, A.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Quantifying wildfire dynamics through spatio-temporal
+  clustering and remote sensing metrics: The 2023 {Quebec} case study}.
+\newblock \bibinfo{journal}{Fire} \bibinfo{volume}{8}, \bibinfo{pages}{308}.
+\newblock \DOIprefix\doi{10.3390/fire8080308}.
+%Type = Article
+\bibitem[{Valente and Laurini(2023)}]{Valente2023}
+\bibinfo{author}{Valente, F.}, \bibinfo{author}{Laurini, M.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{A spatio-temporal analysis of fire occurrence
+  patterns in the {Brazilian Amazon}}.
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{13},
+  \bibinfo{pages}{12727}.
+\newblock \DOIprefix\doi{10.1038/s41598-023-39875-z}.
+%Type = Article
+\bibitem[{Vega~Orozco et~al.(2012)Vega~Orozco, Tonini, Conedera and
+  Kanevski}]{VegaOrozco2012}
+\bibinfo{author}{Vega~Orozco, C.}, \bibinfo{author}{Tonini, M.},
+  \bibinfo{author}{Conedera, M.}, \bibinfo{author}{Kanevski, M.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Cluster recognition in spatial-temporal sequences:
+  the case of forest fires}.
+\newblock \bibinfo{journal}{GeoInformatica} \bibinfo{volume}{16},
+  \bibinfo{pages}{653--673}.
+\newblock \DOIprefix\doi{10.1007/s10707-012-0161-z}.
+%Type = Article
+\bibitem[{Zerbe et~al.(2022)Zerbe, Polit, McClain and Cook}]{Zerbe2022}
+\bibinfo{author}{Zerbe, K.}, \bibinfo{author}{Polit, C.},
+  \bibinfo{author}{McClain, S.}, \bibinfo{author}{Cook, T.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Optimized hot spot and directional distribution
+  analyses characterize the spatiotemporal variation of large wildfires in
+  {Washington, USA}, 1970--2020}.
+\newblock \bibinfo{journal}{International Journal of Disaster Risk Science}
+  \bibinfo{volume}{13}, \bibinfo{pages}{139--150}.
+\newblock \DOIprefix\doi{10.1007/s13753-022-00396-4}.
+%Type = Article
+\bibitem[{Zubieta et~al.(2021)Zubieta, Prudencio, Ccanchi, Saavedra, Sulca,
+  Reupo and Alarco}]{Zubieta2021}
+\bibinfo{author}{Zubieta, R.}, \bibinfo{author}{Prudencio, F.},
+  \bibinfo{author}{Ccanchi, Y.}, \bibinfo{author}{Saavedra, M.},
+  \bibinfo{author}{Sulca, J.}, \bibinfo{author}{Reupo, J.},
+  \bibinfo{author}{Alarco, G.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Potential conditions for fire occurrence in
+  vegetation in the {Peruvian Andes}}.
+\newblock \bibinfo{journal}{International Journal of Wildland Fire}
+  \bibinfo{volume}{30}, \bibinfo{pages}{836--849}.
+\newblock \DOIprefix\doi{10.1071/WF21029}.
+
+\end{thebibliography}
